@@ -14,7 +14,8 @@
     "apps": {
         "internal": [
             "private-blogging",
-            "amp"
+            "amp",
+            "split-string"
         ]
     },
     "slugs": {
